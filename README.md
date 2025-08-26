@@ -13,9 +13,6 @@
 | Account Number | Last Name | Middle Name | First Name(s) |
 | -------------- | --------- | ----------- | ------------- |
 | 320334489 | Juárez  | Elizalde | Josue |
-| 320067354 | Medina  | Guzmán   | Santiago |
-| 320054831 | Tavera  | Castillo | David Emmanuel |
-| 320218666 | Tenorio | Martínez | Jesús Alejandro |
 | 117004023 | Salazar | Rubi     | Héctor Manuel |
 
 **Semester 2025‑2**
@@ -279,8 +276,6 @@ The **assembler** further enriched our understanding by simulating **low-level e
 
 ## 📚 References
 
-## 📚 References
-
 1. TREMBLAY, Jean-Paul, and SORENSON, Paul. *The Theory and Practice of Compiler Writing*. McGraw-Hill, 1985.  
 2. AHO, Alfred, SETHI, Ravi, and ULLMAN, Jeffrey D. *Compiladores: Principios, técnicas y herramientas*. Addison-Wesley Iberoamericana, 2000.  
 3. AHO, Alfred V., LAM, Monica S., SETHI, Ravi, and ULLMAN, Jeffrey D. *Compilers: Principles, Techniques, and Tools*. 2nd ed., Pearson Education, 2007.  
@@ -301,8 +296,6 @@ The **assembler** further enriched our understanding by simulating **low-level e
 ## Authors
 * Héctor Salazar  
 * Jesús Tenorio  
-* Josué Elizalde  
-* Santiago Medina  
-* David Tavera  
+
 
 *For academic purposes only.*  
