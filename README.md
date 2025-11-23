@@ -12,7 +12,7 @@
 
 | Account Number | Last Name | Middle Name | First Name(s) |
 | -------------- | --------- | ----------- | ------------- |
-| 320334489 | Juárez  | Elizalde | Josue |
+| 320218666 | Tenorio | Martínez | Jesús Alejandro |
 | 117004023 | Salazar | Rubi     | Héctor Manuel |
 
 **Semester 2025‑2**
